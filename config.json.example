@@ -1,0 +1,9 @@
+{
+    "botToken": "TOKEN_DISCORD",
+    "blockedDomains": [
+        "twitter.com",
+        "x.com"
+    ],
+    "serverId": "ID_DU_SERVEUR_CIBLE",
+    "inviteLink": "https://discord.gg/TON_INVITE"
+}
